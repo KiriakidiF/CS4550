@@ -1,0 +1,30 @@
+Please fill in answers to the questions below:
+
+
+1. What's your name?
+Fedor (Ted) Kiriakidi
+
+2. Which VPS & domain providers did you choose?
+I used Vultr for my VPS and Gandi for the domain.
+
+3. What domain name did you register?
+I registered tkwaffle.site
+
+4. What's the URL of your Github repository for this assignment?
+https://github.com/KiriakidiF
+
+5. Which parts of this assignment did you have trouble with, if any?
+I had confusion when I saw discrepencies between accessing my site
+on my computer (bad result) and on other devices like on my phone
+(good result)
+
+And here's a list of tasks for grading comments. Just leave this here:
+ - Task 1
+ - Task 2
+ - Task 3
+ - Task 4
+ - Task 5
+ - Task 6
+ - Task 7
+ - Task 8
+ - Task 9
