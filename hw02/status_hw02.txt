@@ -1,0 +1,43 @@
+Please fill in answers to the questions below:
+
+
+1. What's your name?
+Ted Kiriakidi
+
+2. What hostname did you deploy to?
+hw02.tkwaffle.site
+
+3. What's the link to your repository on github with your code?
+https://github.com/KiriakidiF/CS4550.git
+
+4. How many HTML / CSS tutorial exercises did you do?
+32 HTML and 35 CSS tutorial exercies; 
+
+5. How comfortable do you feel with HTML and CSS now?
+Much more comfortable than I was at the beginning of the week, but I would still need to look up many properties.
+
+6. How many JS tutorial exercises did you do?
+23 Javascript HTML DOM tutorial exercises
+
+7. How comfortable do you feel with JS now?
+I feel fairly comfortable working with Javascript.
+
+8. Do all of your HTML pages pass the W3C HTML validator?
+(https://validator.w3.org/)
+No, there were some errors for lang/encoding as well as some stray tags on my power's of 2 table.
+
+9. Which parts of this assignment did you have trouble with, if any?
+I had some confusion trying to figure out what I needed to keep track of until I wrote out a lot of situations and noted down what I would need. I also had some confusion because I could not find any calculators with a shared +/= button, but i documented what my operations did in the Javascript.
+
+
+
+
+And here's a list of tasks for grading comments. Just leave this here:
+ - Task 1
+ - Task 2
+ - Task 3
+ - Task 4
+ - Task 5
+ - Task 6
+ - Task 7
+ - Task 8

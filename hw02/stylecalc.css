@@ -1,0 +1,56 @@
+header, body {
+	margin: 0;
+}
+body {
+	background: rgb(235, 225, 190);
+}
+
+header, table {
+	text-align: center;
+	margin: auto;
+}
+
+header {
+	background: purple;
+	border: solid black 5px;
+	width: 50%;
+	height: 20%;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+/* Calculator display bar,
+ * scrolls for overflowing numbers,
+ * should be centered, taking up 80% of the page width */
+#display {
+	border: solid black 3px;
+	width: 80%;
+	height: 100px;
+	margin: 10px;
+	margin-left: auto;
+	margin-right: auto;
+	background: white;
+	font-size: 90px;
+	text-align: right;
+	line-height: 100px;
+	overflow: auto;
+}
+
+table {
+	background: grey;
+}
+tr {
+	width: 100%;
+	height: 25%;
+}
+td {
+	width: 25%;
+	height: 100%;
+	padding: 10px;
+}
+button {
+	width: 150px;
+	height: 150px;
+	font-size: 50px;
+	padding: 20px;
+}
